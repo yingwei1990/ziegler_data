@@ -1,0 +1,18 @@
+# README.org --- 
+# 
+# Description: 
+# Author: David(侯英伟)
+# Created: 三 1月  8 11:34:00 2020 (+0800)
+# Last-Updated: 三 1月  8 11:41:02 2020 (+0800)
+#           By: David(侯英伟)
+#     Update #: 3
+# URL:https://github.com/yingwei1990 
+zieglerdata for HEU_NMS
+add this to .bashrc
+#+begin_src sh
+export NMSALPHALEDATA=path_to_zieglerdata/ziegler_data
+export NMSZIEGLERDATA=path_to_ziegler_low_e_table/ziegler_low_e_table
+export G4NEUTRONHPDATA=path_to_JEFF31N/JEFF31N
+#+end_src
+# 
+# README.org ends here
